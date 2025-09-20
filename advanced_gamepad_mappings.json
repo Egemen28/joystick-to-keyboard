@@ -1,0 +1,33 @@
+{
+    "mappings": {
+        "button_0": "mouse_left_click",
+        "button_1": "mouse_right_click",
+        "button_2": "space",
+        "button_3": "e",
+        "button_4": "q",
+        "button_5": "f",
+        "button_6": "shift",
+        "button_7": "ctrl",
+        "button_9": "esc",
+        "axis_0_neg": "a",
+        "axis_0_pos": "d",
+        "axis_1_neg": "w",
+        "axis_1_pos": "s",
+        "axis_2": "mouse_x",
+        "axis_3": "mouse_y",
+        "hat_0_up": "1",
+        "hat_0_down": "2",
+        "hat_0_left": "3",
+        "hat_0_right": "4"
+    },
+    "mouse_settings": {
+        "sensitivity": 15.0,
+        "axis_deadzone": 0.15,
+        "y_axis_invert_factor": 1,
+        "scroll_sensitivity_factor": 1.0,
+        "scroll_mode_discrete_threshold": 0.75
+    },
+    "gamepad_settings": {
+        "keyboard_axis_threshold": 0.6
+    }
+}
