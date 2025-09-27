@@ -42,4 +42,4 @@ pip install pygame pynput
 
 - Don't forget to press the "Save and Apply JSON Settings" button after changing settings
 - The program automatically stops if the joystick connection is lost
-- Tested with different gamepad models, but some special controllers may require minor adjustments
+
